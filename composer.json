@@ -1,5 +1,5 @@
 {
-    "name": "longman/telegram-bot",
+    "name": "java002/telegram",
     "type": "library",
     "description": "PHP telegram bot",
     "keywords": ["telegram", "bot", "api"],
